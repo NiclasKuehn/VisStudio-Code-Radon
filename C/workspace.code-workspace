@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\C++"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"compare": "c",
+			"*.tcc": "c",
+			"type_traits": "c",
+			"typeinfo": "c",
+			"cstdlib": "c",
+			"cmath": "c",
+			"new": "c",
+			"limits": "c"
+		}
+	}
+}
